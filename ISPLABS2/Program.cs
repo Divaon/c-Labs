@@ -7,7 +7,7 @@ namespace ISPLABS2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Give me text with words and see show!!!");
+            Console.WriteLine("Give me text with words and see show!!!+check");
 
 
             string str;
