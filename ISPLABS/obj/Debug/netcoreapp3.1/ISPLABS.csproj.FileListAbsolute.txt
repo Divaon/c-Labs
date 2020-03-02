@@ -1,0 +1,11 @@
+D:\Прооекты Visual std\ISPLABS\bin\Debug\netcoreapp3.1\ISPLABS.exe
+D:\Прооекты Visual std\ISPLABS\bin\Debug\netcoreapp3.1\ISPLABS.deps.json
+D:\Прооекты Visual std\ISPLABS\bin\Debug\netcoreapp3.1\ISPLABS.runtimeconfig.json
+D:\Прооекты Visual std\ISPLABS\bin\Debug\netcoreapp3.1\ISPLABS.runtimeconfig.dev.json
+D:\Прооекты Visual std\ISPLABS\bin\Debug\netcoreapp3.1\ISPLABS.dll
+D:\Прооекты Visual std\ISPLABS\bin\Debug\netcoreapp3.1\ISPLABS.pdb
+D:\Прооекты Visual std\ISPLABS\obj\Debug\netcoreapp3.1\ISPLABS.csprojAssemblyReference.cache
+D:\Прооекты Visual std\ISPLABS\obj\Debug\netcoreapp3.1\ISPLABS.AssemblyInfoInputs.cache
+D:\Прооекты Visual std\ISPLABS\obj\Debug\netcoreapp3.1\ISPLABS.AssemblyInfo.cs
+D:\Прооекты Visual std\ISPLABS\obj\Debug\netcoreapp3.1\ISPLABS.dll
+D:\Прооекты Visual std\ISPLABS\obj\Debug\netcoreapp3.1\ISPLABS.pdb
